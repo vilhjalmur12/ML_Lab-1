@@ -1,0 +1,11 @@
+######      Requirements for Lab 1 - Preperation    #####
+#   pip install -r requirements.txt
+#
+###### Requirements without Version Specifiers ######
+sklearn
+numpy
+pandas
+matplotlib
+seaborn
+jupyter
+#
